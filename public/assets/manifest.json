@@ -1,0 +1,32 @@
+{
+    "short_name": "MooMoo",
+    "name": "MooMoo.io",
+    "icons": [
+        {
+            "src": "/img/icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "related_applications": [
+        {
+            "platform": "play",
+            "id": "com.moomooio.app",
+            "url": "https://moomoo.io"
+        },
+        {
+            "platform": "webapp",
+            "url": "./manifest.json"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#3367D6",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "theme_color": "#3367D6"
+}
